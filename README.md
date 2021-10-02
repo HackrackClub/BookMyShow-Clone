@@ -49,6 +49,7 @@ To be updated!
 ## Maintainers
 
 Sugato Bagchi
+
 Irfan Asif
 
 ## MADE WITH LOVE ❤ FROM INDIA
